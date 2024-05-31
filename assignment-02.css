@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Orbitron");
+.round {
+	height: 110px;
+	width: 110px;	
+    border-radius: 50%;
+	border-color:Black;
+	border-width:5px;
+	border-style:Solid;
+	display:inline-block;
+	position:absolute;	
+}
+.green {
+	background: linear-gradient(to bottom, green, #00cc00);
+	left: 0px;
+	top: 0px;
+}
+.red {
+	background: linear-gradient(to bottom, red, #ff6666);
+	right: 0px;
+	top: 0px;
+}
+.yellow {
+	background: linear-gradient(to bottom, #ffcc00, #ffe066);
+	left: 0px;
+	bottom: 0px;
+}
+.blue {
+	background: linear-gradient(to bottom, #0033cc, #6666ff);
+	right: 0px;
+	bottom: 0px;
+}
+.black {
+	height: 200px;
+	width: 200px;	
+    border-radius: 50%;
+	display: inline-block;
+	background-color: Black;
+	z-index:-1;
+	margin-top: 50px;
+}
+.spot {
+	height: 8px;
+	width: 8px;	
+    border-radius: 50%;
+	display: inline-block;
+	background-color: red;
+	margin-top: 2px;
+}
+button {
+	position: relative;
+	margin-top: 88px;
+	background-color: lightgray;
+	border: 1px solid lightgray;
+	font-family: Orbitron;
+	border-radius: 3px;	
+}
+#btnCenter {
+	width: 70px;
+}
+#btnLeft, #btnRight {
+	width: 40px;
+}
+button:active {
+	background-color: gray;
+	border: 1px solid gray;
+}
