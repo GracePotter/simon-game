@@ -14,4 +14,6 @@ The	Single-Player	Simon	Game	is	as	follows:
    and the sequence of signals ends. The game status indicator switches	from GREEN to RED	and	you	will have	to click START	button to	begin	a	new	game.
   
 7. Your	progress (the	number of	correctly	repeated signals)	for	the	game just completed	(last	game) is	shown	in	the	display	to	the	right	of	the	START	button.
-   The all-time highest score is shown in the display to the	left of the START	button.	
+   The all-time highest score is shown in the display to the	left of the START	button.
+
+![Start Button](./images/screenshot.jpg)
