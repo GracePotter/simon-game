@@ -1,5 +1,4 @@
 The	Single-Player	Simon	Game	is	as	follows:	
-
 1. lick the START button to begin, the game status indicator (the red/green light below the START button) switches from	RED	to GREEN. The game will begin	3s after the light turns GREEN.
 
 2. Simon will give the	first signal (randomly flash a coloured button). Repeat	the	signal by clicking the same colour button.
@@ -16,4 +15,4 @@ The	Single-Player	Simon	Game	is	as	follows:
 7. Your	progress (the	number of	correctly	repeated signals)	for	the	game just completed	(last	game) is	shown	in	the	display	to	the	right	of	the	START	button.
    The all-time highest score is shown in the display to the	left of the START	button.
 
-<img src="./images/screenshot.jpg" alt="Start Button" style="border:none; width:300px;">
+   <img src="./images/screenshot.jpg" alt="Start Button" style="border:none; width:300px;">
