@@ -15,4 +15,4 @@ The	Single-Player	Simon	Game	is	as	follows:
 7. Your	progress (the	number of	correctly	repeated signals)	for	the	game just completed	(last	game) is	shown	in	the	display	to	the	right	of	the	START	button.
    The all-time highest score is shown in the display to the	left of the START	button.
 
-   <img src="./images/screenshot.png" style="border:none; width:250px;">
+   <img src="./images/screenshot.png" style="border:none; width:280px;">
